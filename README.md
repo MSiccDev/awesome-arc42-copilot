@@ -306,10 +306,6 @@ The result is production-ready content that respects the original arc42 creators
 
 ## 🔗 Related Resources
 
-- [arc42 Official Site](https://arc42.org)
-- [arc42 Documentation](https://docs.arc42.org)
-- [Q42 Quality Model](https://quality.arc42.org)
-- [arc42 FAQ](https://faq.arc42.org)
 - [Architecture Decision Records (ADR)](https://adr.github.io)
 - [C4 Model](https://c4model.com) - Recommended for diagrams
 
