@@ -41,7 +41,7 @@ arc42 is the proven, open-source template for software architecture documentatio
 
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/[your-username]/awesome-arc42-copilot.git
+   git clone https://github.com/MSicc/awesome-arc42-copilot.git
    ```
 
 2. **Choose your section** (e.g., Section 1: Introduction and Goals)
