@@ -1,0 +1,1 @@
+/Users/msicc/Git/msicc-ai-context-kit/projects/awesome-arc42-copilot_project.validation.md
